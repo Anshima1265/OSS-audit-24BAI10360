@@ -45,7 +45,7 @@ All scripts use standard Linux commands that come pre-installed on most distribu
 STEP BY STEP INSTRUCTIONS
 1. Clone or Download the Repository
 bash
-git clone
+git clone https://github.com/Anshima1265/OSS-audit-24BAI10360.git
 cd OSS-audit-24BAI10360
 2. Make All Scripts Executable
 bash
